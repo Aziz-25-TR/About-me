@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 # 👋 Hi, I'm Abdulaziz Bawadi
 
@@ -6,7 +6,7 @@
 ![SQL](https://img.shields.io/badge/SQL-Basic-blue)
 ![Power BI](https://img.shields.io/badge/PowerBI-Learning-yellow)
 ![Python](https://img.shields.io/badge/Python-Basic-Orange)
-![KNIME](https://img.shields.io/badge/KNIME-yellow)
+![KNIME](https://img.shields.io/badge/KNIME-intermediate-yellow)
 
 
 🎯 Aspiring Data Analyst passionate about turning raw data into meaningful insights.
@@ -36,26 +36,25 @@
 
 ## 🛠️ Tools
 
-* Excel
 * KNIME (Data Analysis & Data Science Projects)
 * SQL (Basic)
 * Power BI (Learning)
+* Python (Basic)
+* Excel
 * Google Sheets
 * C (Basic)
 * C++ (Basic) + More than 50 Projects Problem Solving
-* Python (Basic)
 
 ---
 
 ## 📊 Projects
 
-### 🔹 Sales Data Dashboard
 
-* Built an interactive dashboard to analyze sales trends
-* Created KPIs (Revenue, Growth Rate)
-* Added filters for dynamic analysis
+---
 
-(Coming soon: more projects...)
+## 🎓 Certifications
+
+* NF Academy Data Analytics & Science Certificate
 
 ---
 
@@ -69,7 +68,3 @@
 * Learning C++ (Advanced)
 * Craetting more projects in Data Analysis
 
----
-## 📊 Projects Links:
-
-### Still in Update.
