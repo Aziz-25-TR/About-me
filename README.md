@@ -82,3 +82,9 @@ Data Science Trainee | NF Academy (Codeless Data Science Program)
 * Learning C++ (Advanced)
 * Craetting more projects in Data Analysis
 
+---
+
+## 📫 Contact
+
+* Email: [Abdulazizbawadi8@gmail.com](mailto:your@email.com)
+* LinkedIn: www.linkedin.com/in/abdulaziz-abdullah-bawadi-ab1194337
