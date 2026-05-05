@@ -11,6 +11,8 @@
 
 📊 Currently building interactive dashboards using Power BI and analyzing real-world datasets.
 
+📚 Attended in Universitas Muhammadiyah Jakarta, Bachelor in  IT
+
 ---
 
 ## 🔎 Data Skills
