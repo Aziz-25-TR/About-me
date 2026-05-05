@@ -8,7 +8,16 @@
 
 ---
 
-## 🚀 Skills
+## 🚀 Data Skills
+
+* Data Analysis
+* Data Cleaning
+* Data Visualization
+* Dashboard Development (Learning)
+
+---
+
+## 🚀 Hard Skills
 
 * Data Analysis
 * Data Cleaning
@@ -46,22 +55,6 @@
 
 ---
 
-## 📫 Contact Me
 
-* Email: [your@email.com](mailto:your@email.com)
-* LinkedIn: your-link
-
-<!--
-**Aziz-25-TR/Aziz-25-TR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Excel](https://img.shields.io/badge/Excel-Advanced-green)
+![SQL](https://img.shields.io/badge/SQL-Basic-blue)
