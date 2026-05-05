@@ -61,8 +61,8 @@
 ---
 ## 👨🏻‍💻 Experience
 
-#### Data Science Trainee | NF Academy (Codeless Data Science Program)
-Sep 2025 – Dec 2025
+Data Science Trainee | NF Academy (Codeless Data Science Program)
+📅 Sep 2025 – Dec 2025
 
 * Completed a 4-months intensive training in data science and analytics
 * Analyzed datasets and generated actionable insights
