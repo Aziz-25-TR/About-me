@@ -1,5 +1,3 @@
-
-
 # 👋 Hi, I'm Abdulaziz Bawadi
 
 ![Excel](https://img.shields.io/badge/Excel-Advanced-green)
