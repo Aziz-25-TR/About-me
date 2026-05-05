@@ -49,6 +49,9 @@
 
 ## 📊 Projects
 
+- <a href="https://github.com/Aziz-25-TR/Data-Analytics-Portfolio" target="_blank">
+  View the Projects
+  </a> 
 
 ---
 
