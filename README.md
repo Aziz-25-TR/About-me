@@ -40,7 +40,7 @@
 * SQL (Basic)
 * Power BI (Learning)
 * Python (Basic)
-* Excel
+* Excel (Advanced)
 * Google Sheets
 * C (Basic)
 * C++ (Basic) + More than 50 Projects Problem Solving
@@ -54,7 +54,21 @@
 
 ## 🎓 Certifications
 
-* NF Academy Data Analytics & Science Certificate
+- <a href="https://github.com/user-attachments/files/27389549/SIB.Codeless.Data.Science.-.NF.Academy_.Abdulaziz.pdf" target="_blank">
+  Data Science Certificate
+  </a>
+
+---
+## 👨🏻‍💻 Experience
+
+#### Data Science Trainee | NF Academy (Codeless Data Science Program)
+Sep 2025 – Dec 2025
+
+* Completed a 4-months intensive training in data science and analytics
+* Analyzed datasets and generated actionable insights
+* Created reports and visualizations to communicate findings
+* Worked on hands-on projects involving data cleaning and analysis
+* Improved problem-solving and analytical thinking skills through real case studies
 
 ---
 
