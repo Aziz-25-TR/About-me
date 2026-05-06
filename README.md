@@ -60,6 +60,8 @@
 - <a href="https://github.com/user-attachments/files/27389549/SIB.Codeless.Data.Science.-.NF.Academy_.Abdulaziz.pdf" target="_blank">
   Data Science Certificate
   </a>
+  
+- [KNIME Certification L1 Examinatio](https://github.com/user-attachments/files/27446613/KNIME.Certification.L1.Examination_Abdulaziz.pdf)
 
 ---
 ## 👨🏻‍💻 Experience
